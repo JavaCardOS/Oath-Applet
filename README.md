@@ -26,13 +26,3 @@ Usage:
 ===========
  Use [pyApduTool](http://javacardos.com/javacardforum/viewtopic.php?f=3&t=38) to Download this  applet to card, install, select and communicate with the card.
 
-
-Additional Features:
-=========
-This Applet actually supports some pin policy enforcement.
-Checks are made on the pin size, character set and mix of characters.
-The exact pin policy depends on parameters provided at instantiation time.
-
-Note:
-======
-Different versions of this Applet could be released, with different features disabled, in order to let you save space on the card if your application does not require those features at all.
