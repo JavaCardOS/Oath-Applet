@@ -4,7 +4,7 @@ This project implement the HOTP/TOTP card functionality. Its primary use is to  
 INTRODUCTION
 ========
  This applet used in a One-Time Passcode (OTP) generator device. It generates a unique sequence of characters as an OTP every time its button is pressed.
-This project implement the HOTP/TOTP card functionality. 
+This project implement the HOTP/TOTP card functionality, and  generate Open AuTHentication (OATH) event-based HOTP and time-based TOTP one-time password codes.
 
 
 
