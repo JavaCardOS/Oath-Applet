@@ -1,0 +1,11 @@
+<JavaCardProject name="pkgYkneoOath">
+<USER>
+<PKG name="pkgYkneoOath" aid="A0 00 00 05 27 21 01" major="1" minor="0">
+<APPLET aid="A0 00 00 05 27 21 01 01" instanceaid="" parameter="" authority="" privileges="" index="-22920" name="YkneoOath"/>
+</PKG>
+<Libs/>
+</USER>
+<DebugInfo>
+<Protocol name="T1"/>
+</DebugInfo>
+</JavaCardProject>
