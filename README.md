@@ -15,14 +15,14 @@ This program is released under the GPLv3+.
 Discussion
 =======
 
-Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=42) to get more scripts and leave your comments and suggestions.
+Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=42?ws=github&prj=OathApp) to get more scripts and leave your comments and suggestions.
 
 Building
 ===
 
-The easiest way is using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43) open this project,  Click "Buid All Packages(F7)" to build the source code.
+The easiest way is using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43?ws=github&prj=OathApp) open this project,  Click "Buid All Packages(F7)" to build the source code.
 
 Usage:
 ===========
- Use [pyApduTool](http://javacardos.com/javacardforum/viewtopic.php?f=3&t=38) to Download this  applet to card, install, select and communicate with the card.
+ Use [pyApduTool](http://javacardos.com/javacardforum/viewtopic.php?f=3&t=38?ws=github&prj=OathApp) to Download this  applet to card, install, select and communicate with the card.
 
